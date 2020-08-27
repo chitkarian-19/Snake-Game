@@ -1,7 +1,7 @@
 # Snake-Game
 Snake Game in Java
 
-     This is a basic snake game in Java built using AWT package in java. 
+     This is a basic snake game in Java built using AWT and Swing package in java. 
      How to run the game
      Steps:
           1.System Requirements:
